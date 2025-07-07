@@ -20,7 +20,7 @@ I'm **Abdullai Ojikutu**, a driven fullstack developer with a deep interest in b
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,nodejs,mongodb,figma,python" />
 </p>
 
 ---
@@ -53,8 +53,9 @@ Here are a few projects I'm working on or completed:
 
 <p>
   <a href="https://github.com/ABDULLAIOJIKUTU" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abdullai-ojikutu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abdullaiojikutu.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:abdullaiojikutu.dev@gmail.com"><img src="https://img.shields.io/badge/X-D14836?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
